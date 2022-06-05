@@ -30,10 +30,18 @@
 - 💞️ I am only a beginner of developing...
 - 📫 How to reach me on [Whatsapp](https://wa.me/qr/6YU2FJRVFLGAM1)
 
-## Contact Me
+## Contact Me 📩
 [![Mail to](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@kavindudilhara.tk)
 [![Microsoft_Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kavindudilhara@hotmail.com)
-## 
+
+## Skills 👨‍🎓
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 <!---
 kavidu-dilhara/kavidu-dilhara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -57,5 +65,5 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-## Support
+## Support 💰
 [![Buymeacoffee](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/kavidudilhara)

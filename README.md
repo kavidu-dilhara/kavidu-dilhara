@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/github/followers/kavidu-dilhara?style=social">
 <img src="https://img.shields.io/github/stars/kavidu-dilhara?style=social">
 <br>
-🫠
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/kavidu-dilhara)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://kavindudilhara.ml/)
 </div>
 
 - 👋 Hi, I’m @kavidu-dilhara

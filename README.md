@@ -1,6 +1,6 @@
 ## Hi, I'm kavidu dilhara (Sri Lanka)👋&nbsp;<img src="https://github.com/kavidu-dilhara/kavidu-dilhara/blob/main/assets/img/header.gif" width="10%"></h1>   
 ---------
-<img src="https://github.com/kavidu-dilhara/kavidu-dilhara/blob/main/assets/img/main.png" width="300%">
+<img src="https://github.com/kavidu-dilhara/kavidu-dilhara/blob/main/assets/img/main.jpg" width="100%">
 
 - 👋 Hi, I’m @kavidu-dilhara
 - 👀 I’m interested in ...

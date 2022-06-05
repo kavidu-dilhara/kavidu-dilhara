@@ -26,7 +26,7 @@
 
 - 👋 HI! I’m [Kavidu Dilhara](https://www.facebook.com/kavidu.dilhara.0)
 - 👀 I’m looking for New programming methods
-- 👨‍🎓 I’m currently learning Java, Node.js, HTML, Python
+- 👨‍🎓 I’m currently learning Java, PHP, HTML, Python
 - 💞️ I am only a beginner of developing...
 - 📫 How to reach me on [Whatsapp](https://wa.me/qr/6YU2FJRVFLGAM1)
 

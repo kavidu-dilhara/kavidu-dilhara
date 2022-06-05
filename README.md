@@ -54,4 +54,4 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 ## Support
-<img src="https://badges.aleen42.com/src/buymeacoffee.svg">
+[![Buymeacoffee](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/kavidudilhara)

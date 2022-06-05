@@ -9,6 +9,14 @@
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://kavindudilhara.ml/)
 </div>
 
+<div align="center">
+
+![profile viwes](https://komarev.com/ghpvc/?username=kavidu-dilhara&color=brightgreen)
+
+</div>
+
+
+
 - 👋 Hi, I’m @kavidu-dilhara
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

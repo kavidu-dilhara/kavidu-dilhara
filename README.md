@@ -30,6 +30,9 @@
 - 💞️ I am only a beginner of developing...
 - 📫 How to reach me on [Whatsapp](https://wa.me/qr/6YU2FJRVFLGAM1)
 
+## Contact Me
+[![Mail to](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@kavindudilhara.tk)
+
 <!---
 kavidu-dilhara/kavidu-dilhara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

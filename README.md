@@ -1,3 +1,6 @@
+
+## Hi, I'm kavidu dilhara (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="5%"></h1>   
+
 - 👋 Hi, I’m @kavidu-dilhara
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

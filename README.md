@@ -1,5 +1,5 @@
 
-## Hi, I'm kavidu dilhara (Sri Lanka)👋&nbsp;<img src="https://github.com/kavidu-dilhara/kavidu-dilhara/blob/main/1.gif" width="10%"></h1>   
+## Hi, I'm kavidu dilhara (Sri Lanka)👋&nbsp;<img src="https://github.com/kavidu-dilhara/kavidu-dilhara/blob/main/2.gif" width="10%"></h1>   
 
 - 👋 Hi, I’m @kavidu-dilhara
 - 👀 I’m interested in ...

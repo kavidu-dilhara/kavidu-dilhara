@@ -14,14 +14,20 @@
 ![profile viwes](https://komarev.com/ghpvc/?username=kavidu-dilhara&color=brightgreen)
 
 </div>
+<div align="center">
 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
+</div>
 
-- 👋 Hi, I’m @kavidu-dilhara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 HI! I’m [Kavidu Dilhara](https://www.facebook.com/kavidu.dilhara.0)
+- 👀 I’m looking for New programming methods
+- 👨‍🎓 I’m currently learning Java, Node.js, HTML, Python
+- 💞️ I am only a beginner of developing...
+- 📫 How to reach me on [Whatsapp](https://wa.me/qr/6YU2FJRVFLGAM1)
 
 <!---
 kavidu-dilhara/kavidu-dilhara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

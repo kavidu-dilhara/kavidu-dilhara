@@ -43,6 +43,9 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Stars Sparklines
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/kavidu-dilhara/badges)
+![Sparkline](https://stars.medv.io/Naereen/badges.svg)
+
+
+![kavidu github trophy](https://github-profile-trophy.vercel.app/?username=kavidu-dilhara&row=1&theme=algolia)
 
 

@@ -1,5 +1,6 @@
 ## Hi, I'm kavidu dilhara (Sri Lanka)👋&nbsp;<img src="https://github.com/kavidu-dilhara/kavidu-dilhara/blob/main/assets/img/header.gif" width="10%"></h1>   
-<hr>
+---------
+<img src="https://github.com/kavidu-dilhara/kavidu-dilhara/blob/main/assets/img/main.png" width="300%">
 
 - 👋 Hi, I’m @kavidu-dilhara
 - 👀 I’m interested in ...
@@ -21,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stars Sparklines
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/kavidu-dilhara/badges)
+
+

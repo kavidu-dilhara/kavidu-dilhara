@@ -32,7 +32,8 @@
 
 ## Contact Me
 [![Mail to](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@kavindudilhara.tk)
-
+[![Microsoft_Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kavindudilhara@hotmail.com)
+## 
 <!---
 kavidu-dilhara/kavidu-dilhara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

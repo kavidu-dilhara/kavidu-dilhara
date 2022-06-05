@@ -52,3 +52,6 @@ You can click the Preview link to take a look at your changes.
 ![kavidu github trophy](https://github-profile-trophy.vercel.app/?username=kavidu-dilhara&row=1&theme=algolia)
 
 </details>
+
+## Support
+<img src="https://badges.aleen42.com/src/buymeacoffee.svg">

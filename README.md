@@ -6,7 +6,9 @@
 <br>
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/kavidu-dilhara)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://kavidudilhara.ml/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kavidudilhara)
+[![My Website](https://img.shields.io/badge/www.-kavidudilhara.ml-brightgreen)](https://kavidudilhara.ml/)
+
 </div>
 
 <div align="center">

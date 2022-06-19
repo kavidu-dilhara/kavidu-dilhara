@@ -69,3 +69,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Support 💰
 [![Buymeacoffee](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/kavidudilhara)
+
+#### Random Joke 🤣
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
